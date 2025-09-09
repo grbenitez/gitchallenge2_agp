@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Peter: Platypus
  
+=======
+Gisselle: dog
+
+Ayesha: Panda 
+>>>>>>> b47ce243d08cadc7bde66e79cb0c02a4c11b1a71
